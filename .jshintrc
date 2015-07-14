@@ -1,8 +1,8 @@
+
 {
     "predef": [
         "console",
-        "require",
-        "define",
+        "Intl",
         "describe",
         "it",
         "before",
@@ -36,7 +36,6 @@
     "boss": false,
     "debug": false,
     "eqnull": true,
-    "es5": false,
     "esnext": false,
     "evil": false,
     "expr": true,
